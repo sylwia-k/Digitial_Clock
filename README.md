@@ -1,6 +1,6 @@
 # Digitial_Clock
 
-Projekt **Digital Clock** to prosty program, który pokazuje obecny czas
+Projekt ** Digital Clock ** to prosty program, który pokazuje obecny czas
 
-##Technologie:
+## Technologie:
 -Python PyQt5
